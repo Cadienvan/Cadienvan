@@ -4,6 +4,6 @@ Currently working in JavaScript, mainly via Node.js.
 
 ### My Github Stats
 
-![Cadienvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadienvan&show_icons=true&theme=dracula)
+![Cadienvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadienvan&count_private=true&show_icons=true&theme=dracula)
 
 Do you wanna sponsor me? [Click Here!](https://github.com/sponsors/Cadienvan)
